@@ -8,3 +8,8 @@ while a>0:
     sum=sum+rem
     a=int(a/10)
 print(sum)
+
+
+
+
+# extra line is for the testing in git hub  repository
