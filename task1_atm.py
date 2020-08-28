@@ -31,9 +31,4 @@ if acoount=='saving':
         print('insufficient funds in your account')
 else:
     print('account number is not matched')
-
 '''
-
-
-
-#  this line is just to see the modifiactions wether replicated in the remote repository or not 
